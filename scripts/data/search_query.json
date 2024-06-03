@@ -1,0 +1,4 @@
+{
+    "locations": ["Hong Kong","Bangkok","Sydney","Tokyo","New York","Ho Chi Minh"],
+    "disruption": ["Airport Disruptions","Port Disruptions","Natural disasters"]
+}
